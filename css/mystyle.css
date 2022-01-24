@@ -11,3 +11,24 @@
      height: auto;
      width: 100% !important;
  }
+ 
+ .active {
+     color: rgb(241, 187, 10) !important;
+ }
+ 
+ h4 {
+     color: rgb(247, 176, 25) !important;
+ }
+ 
+ pre {
+     font-family: "Times New Roman", courier, monospace;
+     font-size: 15px;
+ }
+ 
+ p {
+     text-align: justify !important;
+ }
+ 
+ .bg-danger {
+     background-color: rgb(241, 187, 10) !important;
+ }
