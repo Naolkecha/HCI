@@ -32,3 +32,7 @@
  .bg-danger {
      background-color: rgb(241, 187, 10) !important;
  }
+ 
+ .px-8 {
+     padding-left: 30%;
+ }
